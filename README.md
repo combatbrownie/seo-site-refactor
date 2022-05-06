@@ -26,3 +26,9 @@ The title element was adjusted to reflect a consise and descriptive title
 relevant to the site and to web crawlers that may lead to an increased SERP ranking and 
 more traffic to the site.
 
+<Learning> I learned how to use Lighthouse (chrome inspect developer tool) to check the accessibility rating.  The accessibility rating is now over 95%. 
+In addition, I learned that elements should follow a logical structure independent of styling and positioning.
+
+<Credits> Max Oshawa - TA extrordinare
+Benjamin Wright - Instructor of Columbia Full Stack Web Developer Bootcamp, class CU-VIRT-FSF-FT-05-2022. 
+
